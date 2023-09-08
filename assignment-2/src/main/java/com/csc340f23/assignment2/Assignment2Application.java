@@ -44,7 +44,7 @@ public class Assignment2Application {
         } catch (JsonProcessingException ex) {
             Logger.getLogger(Assignment2Application.class.getName()).log(Level.SEVERE,
                     null, ex);
-            System.out.println("error in ");
+            System.out.println("error in getCatFact");
 
         }
     }
